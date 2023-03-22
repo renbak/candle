@@ -1530,3 +1530,11 @@ body {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.fa-brands_head {
+  display: flex;
+  position: relative;
+  top: -25px;
+  font-size: 45px;
+}
